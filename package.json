@@ -24,7 +24,7 @@
     "jshint": "*",
     "koa": "1",
     "mocha": "*",
-    "supertest": "1"
+    "supertest": "^2.0.1"
   },
   "homepage": "https://github.com/koajs/cors",
   "repository": {
